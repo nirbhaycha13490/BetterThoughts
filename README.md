@@ -1,11 +1,10 @@
 # BrighterThoughts - Mental Health Awareness Website
 
-A comprehensive mental health awareness website built with Next.js 14 and shadcn/ui, designed for the Business Professionals of America (BPA) Website Design Team competition.
+A comprehensive mental health awareness website built for the Business Professionals of America (BPA) Website Design Team competition.
 
 ### Prerequisites
 
-- Node.js 18+ 
-- npm or yarn
+- download npm 
 
 ### Installation
 
