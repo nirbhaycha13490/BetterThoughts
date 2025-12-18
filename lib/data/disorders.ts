@@ -126,7 +126,7 @@ export const disorders: Disorder[] = [
     description: 'Bipolar disorder causes extreme mood swings including emotional highs (mania) and lows (depression).',
     overview: 'Bipolar disorder, formerly called manic depression, is a mental health condition that causes extreme mood swings that include emotional highs (mania or hypomania) and lows (depression). These mood swings can affect sleep, energy, activity, judgment, behavior, and the ability to think clearly.',
     symptoms: [
-      'Manic episodes: elevated mood, increased energy, reduced need for sleep',
+      'Manic episodes: elevated mood & increased energy',
       'Depressive episodes: sadness, hopelessness, loss of interest',
       'Racing thoughts',
       'Impulsive behavior',
